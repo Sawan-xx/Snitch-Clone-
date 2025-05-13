@@ -21,3 +21,59 @@
     justify-content: space-around;
     width: 50%;
 }
+/*  header styling start  */
+.header-main{
+    text-align: center;
+
+}
+.Header-div{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+margin-left: 33%; 
+margin-right: 33%; 
+
+
+    width: 30vw;
+    height:100vh;
+}
+.img-divs img{
+    /* margin-left: 35%; */
+    width: 30vw;
+
+    height: 100vh;
+}
+
+.header-inner-div  input{
+    border: 0px solid white ;
+    background:transparent;
+    width: 90%;
+    color: white;
+
+
+}
+input{
+    outline: none;
+}
+
+ ::placeholder{
+    color: white ;
+    opacity: 1;
+    font-size: small;
+ }
+.input-div{
+    border: 1px solid white ;
+    height: 30px;
+    width: 90%;
+
+}
+.Search-icon{
+    color: white;
+}
+.brown{
+    color: rgba(189, 120, 36, 0.766);
+}
+marquee{
+    font-size: small;
+
+}
